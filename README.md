@@ -6,8 +6,8 @@ List of super userful Git Commands to use everyday.
 
 # Config / Setup
 ## Setting Global Username/Email
-git config --global user.name "Aayush Tuladhar"
-git config --global user.email "aayush.tuladhar@gmail.com"'
+git config --global user.name "sanjeevpratapsingh"
+git config --global user.email "sanjeevpratapsingh93@gmail.com"'
 
 ##  Clone a Repo from URL
 git clone <url>
