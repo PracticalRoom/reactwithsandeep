@@ -34,6 +34,10 @@ git commit <file> -m "Message"
 ## Perform Commit to All Tracked Files
 git commit -a -m "Message"
 
+After commiting uploading to Github Remote Location
+=> git remote add origin https://github.com/sanjeevpratapsingh/gitcmd.git
+=> git push -u origin master
+
 ## Reverts changed you performed in the <filename>
 git checkout -- <filename>
 
